@@ -44,7 +44,7 @@ Command a fortress of goblin miners in this real-time simulation! Watch as your 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mining-simulator.git
+   git clone https://github.com/diegoQuinas/mining-simulator.git
    cd mining-simulator
    ```
 
@@ -210,9 +210,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/yourusername/mining-simulator](https://github.com/yourusername/mining-simulator)
-- **Issues**: [Report bugs and request features](https://github.com/yourusername/mining-simulator/issues)
-- **Discussions**: [Join the community](https://github.com/yourusername/mining-simulator/discussions)
+- **Project Link**: [https://github.com/diegoQuinas/mining-simulator](https://github.com/diegoQuinas/mining-simulator)
+- **Issues**: [Report bugs and request features](https://github.com/diegoQuinas/mining-simulator/issues)
+- **Discussions**: [Join the community](https://github.com/diegoQuinas/mining-simulator/discussions)
 
 ---
 
