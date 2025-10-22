@@ -77,7 +77,7 @@ cargo run -- --miners 10
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   Fortress      │◄───┤  Message Bus    │───►│  Goblin Miners  │
-│   (Receiver)    │    │   (mpsc::channel)│    │   (Senders)     │
+│   (Receiver)    │    │ (mpsc::channel) │    │   (Senders)     │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
          │                                              │
          ▼                                              ▼
